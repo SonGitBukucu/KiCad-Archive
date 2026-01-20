@@ -1,2 +1,2 @@
 # KiCad-Archive
-I wanted to keep a copy my projects that I completed in KiCad, so here we are. There will pictures about the projects and maybe the projects themselves if I don't think that there would be a problem if the project is shared publicly. 
+I wanted to keep a copy my projects that I completed and want to share in KiCad, so here we are. There will pictures about the projects and maybe the projects themselves if I don't think that there would be a problem if the project is shared publicly. 
